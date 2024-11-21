@@ -1,0 +1,6 @@
+#gitignore simply igonore the folders/files while pushing
+
+node_modules/
+Client/node_modules/
+Client/.env/
+.env
