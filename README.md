@@ -1,8 +1,8 @@
 
-# Grocery eCommerce WebApp  
+# Grocery WebApp  
 
 ## Overview  
-This project is a full-stack Grocery eCommerce web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows users to browse, search, and purchase groceries online. The app includes features like user authentication, product catalog, shopping cart, and a secure checkout process.
+This project is a full-stack Grocery web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows users to browse, search, and purchase groceries online. The app includes features like user authentication, product catalog, shopping cart, and a secure checkout process.
 
 
 
