@@ -62,7 +62,7 @@ This project is a full-stack Grocery web application built using the MERN stack 
 
 ### Additional Tools  
 - **JWT** (for authentication)  
-- **Stripe API** (for payment gateway)  
+
 
 
 ## Installation  
